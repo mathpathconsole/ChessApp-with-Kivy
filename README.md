@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/af1c4b8e-0e58-4401-9763-bee30c4f1254
 ![new2starssign](https://github.com/mathpathconsole/mathpath/assets/116816908/086ff437-e29c-49d9-8ee3-ac6d05150923)
 
 # Chess App with Kivy for fun
@@ -34,4 +36,4 @@ https://github.com/user-attachments/assets/30cfbd13-e665-4949-a044-f92f4f2e6faa
 **King rule**
 ![king_rule](https://github.com/user-attachments/assets/eceb24d2-b59f-4370-b41b-cac3e76fcb8d)
 
-https://github.com/user-attachments/assets/09f9ff52-aefa-4cd0-8c07-edfdecc86203
+https://github.com/user-attachments/assets/f190b153-876c-458d-93c2-911a2a40d480
