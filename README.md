@@ -17,6 +17,8 @@ https://github.com/user-attachments/assets/416ff4bf-7032-439a-bb1e-095103250746
 **Castle rule**
 ![castle_rule](https://github.com/user-attachments/assets/1ef23919-775a-42d9-8a60-ca5f4625e417)
 
+https://github.com/user-attachments/assets/152f1647-291a-411e-8695-0f7d79dacc3a
+
 **Knight rule**
 ![knight_rule](https://github.com/user-attachments/assets/cc748996-4588-4d1d-ab5f-b6caa53b2787)
 
@@ -27,5 +29,9 @@ https://github.com/user-attachments/assets/416ff4bf-7032-439a-bb1e-095103250746
 
 *Combine with **elephant and castle** rule*
 
+https://github.com/user-attachments/assets/30cfbd13-e665-4949-a044-f92f4f2e6faa
+
 **King rule**
 ![king_rule](https://github.com/user-attachments/assets/eceb24d2-b59f-4370-b41b-cac3e76fcb8d)
+
+https://github.com/user-attachments/assets/09f9ff52-aefa-4cd0-8c07-edfdecc86203
