@@ -1,1 +1,19 @@
+# source: https://kivymd.readthedocs.io/en/0.104.1/unincluded/kivymd/tools/packaging/pyinstaller/index.html 
 
+
+1- pyinstaller Chess.py --icon=shorticon.ico               
+
+2- edit spec file -add these;
+  >>from kivy_deps import sdl2, glew
+  >> *[Tree(p) for p in (sdl2.dep_bins + glew.dep_bins)], ****//****add to coll=COLLECT(... below at a.datas
+  >> console=False
+
+3- pyinstaller Chess.spec -y
+
+4- put these icons, mp3 sounds and png files in dist/Chess/
+
+
+
+info: kivy==2.1.0 i used
+
+#Stars of the Sky | Reşat Berk
