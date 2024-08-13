@@ -1,4 +1,4 @@
-#This chess project for Kivy users! Publish in Github and Kivy web-site
+#kivy==2.1.0, StarsoftheSky - Reşat Berk
 
 from kivy.app import App
 from kivy.uix.button import Button
